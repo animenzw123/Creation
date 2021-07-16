@@ -1,0 +1,26 @@
+{
+    "success": true,
+    "data": {
+        "articleList": [{
+            "id": 1,
+            "title": "Trip to the Great Ocean Road",
+            "desc": "The Great Ocean Road is located in the western part of Melbourne, Australia. It was built to commemorate the soldiers who participated in the First World War. The people who participated in the construction also included many veterans who participated in the war. ",
+            "imgUrl": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=847240363,4199030607&fm=26&gp=0.jpg"
+        },{
+            "id": 2,
+            "title": "Exploration of Monash University",
+            "desc": "Monash University is located in Melbourne, Victoria, Australia. It is an internationally renowned top research university. It is a core member of the Australian Eight Schools Alliance, Pacific Rim University Alliance, Commonwealth University Association and International University Climate Alliance.",
+            "imgUrl": "https://www.monash.edu/__data/assets/image/0008/848654/17P-0341-Green-Chemical-Feature-box.jpg"
+        },{
+            "id": 3,
+            "title": "Nintendo's top IP - Pokémon",
+            "desc": "Pokémon is a series of games developed by Game Freak and Creatures Co., Ltd. and published by Nintendo. It is a major part of Pokémon's media works.",
+            "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606027209886&di=4b5181b0187cc34eedc0d727d364fd43&imgtype=0&src=http%3A%2F%2Fa.hiphotos.baidu.com%2Fbaike%2Fc0%253Dbaike60%252C5%252C5%252C60%252C20%2Fsign%3D02b2f576d9f9d72a0369184fb5434351%2Fd0c8a786c9177f3e7ff76d4470cf3bc79e3d56b3.jpg"
+        },{
+            "id": 4,
+            "title": "Test title1",
+            "desc": "Stun web blog, A blog (a truncation of is a discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order, so that the most recent post appears first, at the top of the web page.",
+            "imgUrl": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605755508519&di=3d081aee1fc26ac1ed308f013c41e3e8&imgtype=0&src=http%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fimages%2F20181205%2F4d8b8a9b7c05420aa97372549b80fb7b.jpeg"
+        }]
+    }
+}
